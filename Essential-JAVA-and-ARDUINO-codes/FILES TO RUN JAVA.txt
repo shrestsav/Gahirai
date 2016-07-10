@@ -1,0 +1,9 @@
+Install netbeans to run java codes
+install jdk-8u5-nb-8-windows-x64.exe
+Install usb ttl drivers --> CP210x_Windows_Drivers.zip
+
+Other files needed with netbeans
+RXTXcomm.jar
+rxtxSerial.dll
+rxtx-2.1.7.jar
+mysql-connector-java-5.1.36.zip or downlaod the latest from https://downloads.mysql.com/archives/c-j/
